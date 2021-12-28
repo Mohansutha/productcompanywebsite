@@ -220,7 +220,123 @@ body {
 ~~~
 ### Products:
 ~~~
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>AWM Automobiles</title>
+    <link rel="stylesheet" href="./css/layout.css" />
+    <link rel="icon" href="./img/icon.png" type="image/x-icon" />
+  </head>
 
+  <body>
+    <div class="container">
+      <div class="banner">AWM Automobiles Ltd.,</div>
+      <div class="menu">
+        <div class="menuitem"><a href="/static/home.html">Home</a></div>
+        <div class="menuitemselected">
+          <a href="/static/products.html">Products</a>
+        </div>
+        <div class="menuitem"><a href="/static/people.html">People</a></div>
+        <div class="menuitem"><a href="/static/About.html">About</a></div>
+      </div>
+      <div class="content">
+        <div class="productcontent">    
+          <h1>Our Premium Products</h1>
+          <div class="productitems">
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="/static/img/1.jpg" alt="product image">
+                  </div>
+                  <div class="itemname">Ducati Bike</div>
+                  <div class="itemprice">Price: Rs.15,50,000 </div>
+              </div>
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="/static/img/2.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">Duke 390</div>
+                  <div class="itemprice">Price: Rs.3,10,000.00 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/img/3.jpg"  alt="product image">
+                </div>
+                <div class="itemname">Hero Splender+</div>
+                <div class="itemprice">Price: Rs.65,000.00 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/img/4.jpg"  alt="product image">
+                </div>
+                <div class="itemname">Pulsar NS 200</div>
+                <div class="itemprice">Price: Rs.2,15,000.00 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/img/5.jpg"  alt="product image">
+                </div>
+                <div class="itemname">Pulsar 220</div>
+                <div class="itemprice">Price: Rs.1,50,000.00 </div>
+              </div>
+              <div class="productitem">
+                <div class="itemimage">
+                <img src="/static/img/6.jpg"  alt="product image">
+                </div>
+                <div class="itemname">Yamaha R15</div>
+                <div class="itemprice">Price: Rs.2,40,000.00 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/img/7.jpg"  alt="product image">
+                </div>
+                <div class="itemname">KTM RC 200</div>
+                <div class="itemprice">Price: Rs.2,25,000.00 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/img/8.jpg"  alt="product image">
+                </div>
+                <div class="itemname">KTM Bike</div>
+                <div class="itemprice">Price: Rs.1,42,000.00 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/img/9.jpg"  alt="product image">
+                </div>
+                <div class="itemname">Activa i</div>
+                <div class="itemprice">Price: Rs.72,000.00 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/img/10.jpg"  alt="product image">
+                </div>
+                <div class="itemname">BMW Bike</div>
+                <div class="itemprice">Price: Rs.28,00,000.00 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/img/11.jpg"  alt="product image">
+                </div>
+                <div class="itemname">Royal Enfield Classic 350</div>
+                <div class="itemprice">Price: Rs.2,50,000.00 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/img/12.jpg"  alt="product image">
+                </div>
+                <div class="itemname">Apache RTR 200</div>
+                <div class="itemprice">Price: Rs.1,79,000.00 </div>
+              </div>
+
+          </div>
+          </div>        
+      </div>
+      <div class="footer">
+        Copyright &#169; 2021 AWM Automobiles Ltd., Developed by Ragul AC.
+      </div>
+    </div>
+  </body>
+</html>
 ~~~
 ### People:
 ~~~
