@@ -247,85 +247,85 @@ body {
                   <div class="itemimage">
                   <img src="/static/img/1.jpg" alt="product image">
                   </div>
-                  <div class="itemname">Ducati Bike</div>
-                  <div class="itemprice">Price: Rs.15,50,000 </div>
+                  <div class="itemname">avsast antivirus</div>
+                  <div class="itemprice">Price: Rs.500 </div>
               </div>
               <div class="productitem"> 
                   <div class="itemimage">
                   <img src="/static/img/2.jpg"  alt="product image">
                   </div>
-                  <div class="itemname">Duke 390</div>
-                  <div class="itemprice">Price: Rs.3,10,000.00 </div>
+                  <div class="itemname">avg antivirus</div>
+                  <div class="itemprice">Price: Rs.1000 </div>
               </div>
               <div class="productitem"> 
                 <div class="itemimage">
                 <img src="/static/img/3.jpg"  alt="product image">
                 </div>
-                <div class="itemname">Hero Splender+</div>
-                <div class="itemprice">Price: Rs.65,000.00 </div>
+                <div class="itemname">bitdefender antivirus</div>
+                <div class="itemprice">Price: Rs.650 </div>
               </div>
               <div class="productitem"> 
                 <div class="itemimage">
                 <img src="/static/img/4.jpg"  alt="product image">
                 </div>
-                <div class="itemname">Pulsar NS 200</div>
-                <div class="itemprice">Price: Rs.2,15,000.00 </div>
+                <div class="itemname">eScan antivirus</div>
+                <div class="itemprice">Price: Rs.1200.00 </div>
               </div>
               <div class="productitem"> 
                 <div class="itemimage">
                 <img src="/static/img/5.jpg"  alt="product image">
                 </div>
-                <div class="itemname">Pulsar 220</div>
-                <div class="itemprice">Price: Rs.1,50,000.00 </div>
+                <div class="itemname">eset antivirus</div>
+                <div class="itemprice">Price: Rs.1350 </div>
               </div>
               <div class="productitem">
                 <div class="itemimage">
                 <img src="/static/img/6.jpg"  alt="product image">
                 </div>
-                <div class="itemname">Yamaha R15</div>
-                <div class="itemprice">Price: Rs.2,40,000.00 </div>
+                <div class="itemname">k7 security premium</div>
+                <div class="itemprice">Price: Rs.1780 </div>
               </div>
               <div class="productitem"> 
                 <div class="itemimage">
                 <img src="/static/img/7.jpg"  alt="product image">
                 </div>
-                <div class="itemname">KTM RC 200</div>
-                <div class="itemprice">Price: Rs.2,25,000.00 </div>
+                <div class="itemname">k7 security</div>
+                <div class="itemprice">Price: Rs.850.00 </div>
               </div>
               <div class="productitem"> 
                 <div class="itemimage">
                 <img src="/static/img/8.jpg"  alt="product image">
                 </div>
-                <div class="itemname">KTM Bike</div>
-                <div class="itemprice">Price: Rs.1,42,000.00 </div>
+                <div class="itemname">kaspersky total security</div>
+                <div class="itemprice">Price: Rs.1800</div>
               </div>
               <div class="productitem"> 
                 <div class="itemimage">
                 <img src="/static/img/9.jpg"  alt="product image">
                 </div>
-                <div class="itemname">Activa i</div>
+                <div class="itemname">kaspersky antivirus</div>
                 <div class="itemprice">Price: Rs.72,000.00 </div>
               </div>
               <div class="productitem"> 
                 <div class="itemimage">
                 <img src="/static/img/10.jpg"  alt="product image">
                 </div>
-                <div class="itemname">BMW Bike</div>
-                <div class="itemprice">Price: Rs.28,00,000.00 </div>
+                <div class="itemname">medistus antivirus</div>
+                <div class="itemprice">Price: Rs.2800.00 </div>
               </div>
               <div class="productitem"> 
                 <div class="itemimage">
                 <img src="/static/img/11.jpg"  alt="product image">
                 </div>
-                <div class="itemname">Royal Enfield Classic 350</div>
-                <div class="itemprice">Price: Rs.2,50,000.00 </div>
+                <div class="itemname">norton antivirus</div>
+                <div class="itemprice">Price: Rs.2500.00 </div>
               </div>
               <div class="productitem"> 
                 <div class="itemimage">
                 <img src="/static/img/12.jpg"  alt="product image">
                 </div>
-                <div class="itemname">Apache RTR 200</div>
-                <div class="itemprice">Price: Rs.1,79,000.00 </div>
+                <div class="itemname">quick heal antivirus</div>
+                <div class="itemprice">Price: Rs.1,799.00 </div>
               </div>
 
           </div>
@@ -457,7 +457,7 @@ body {
 
 ### Products:
 
-![output](./images/product.png)
+![output](./images/products.png)
 
 ### People:
 
