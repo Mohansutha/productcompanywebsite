@@ -206,9 +206,9 @@ Antivirus software was originally developed to detect and remove computer viruse
           </br>
             Definition Software that is created specifically to help detect, prevent and remove malware (malicious software). Antivirus is a kind of software used to prevent, scan, detect and delete viruses from a computer. Once installed, most antivirus software runs automatically in the background to provide real-time protection against virus attacks.
             <ul>
-              <li>Ultimate offers</li>
-              <li>No cost EMI</li>
-              <li>Free Service</li>
+              <li>total security</li>
+              <li>be free</li>
+              <li>the ultimate antivirus</li>
             </ul>
           </div>
         </div>
