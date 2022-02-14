@@ -214,7 +214,7 @@ Antivirus software was originally developed to detect and remove computer viruse
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 AWM Automobiles Ltd., Developed by Ragul AC.
+        Copyright &#169; 2021 AWM Automobiles Ltd., Developed by mohanraj s.
       </div>
     </div>
   </body>
@@ -334,7 +334,7 @@ Antivirus software was originally developed to detect and remove computer viruse
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 AWM Automobiles Ltd., Developed by Ragul AC.
+        Copyright &#169; 2021 AWM Automobiles Ltd., Developed by mohanraj S
       </div>
     </div>
   </body>
@@ -408,7 +408,7 @@ Antivirus software was originally developed to detect and remove computer viruse
                 </div>
             </div>
             <div class="footer">
-                Copyright &#169; 2021 AWM Automobiles Ltd., Developed by Ragul AC.
+                Copyright &#169; 2021 AWM Automobiles Ltd., Developed by mohanraj S
             </div>
         </div>
     </body>
@@ -439,13 +439,13 @@ Antivirus software was originally developed to detect and remove computer viruse
                     <div class="Peopleitems">
                         <h2>For Enquiry:</h2>
                         <h3>E-Mail : awmautomobiles@gmail.com</h3>
-                        <h3>NUMBER: +91 9345572665</h3>
+                        <h3>NUMBER: +91 8072514885</h3>
                         <h3>ADDRESS: 12B,Richie street,Chennai.</h3>
                     </div>
                 </div>
             </div>
             <div class="footer">
-            Copyright &#169; 2021 AWM Automobiles Ltd., Developed by Ragul AC.
+            Copyright &#169; 2021 AWM Automobiles Ltd., Developed by Mohanraj S
             </div>
         </div>
     </body>
